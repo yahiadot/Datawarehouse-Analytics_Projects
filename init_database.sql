@@ -11,3 +11,22 @@ Warning:
 Running the script will drop the entire database if it exists.
 All the data in the database will be permanently deleted.
 */
+USE master;
+GO 
+
+CREATE DATABASE DATAWAREHOUSE;
+
+USE DATAWAREHOUSE;
+
+CREATE SCHEMA BRONZE;
+
+GO
+
+CREATE SCHEMA SILVER;
+
+GO
+
+CREATE SCHEMA GOLD;
+
+GO
+  
