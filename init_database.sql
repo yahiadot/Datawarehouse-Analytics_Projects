@@ -1,3 +1,4 @@
+/*
 ===========================================================
 Create Database and Schemas
 ==========================================================
@@ -9,3 +10,4 @@ database: (Silver Layer,Bronze Layer and gold).
 Warning: 
 Running the script will drop the entire database if it exists.
 All the data in the database will be permanently deleted.
+*/
