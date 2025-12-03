@@ -1,1 +1,54 @@
+--Check for Null or Negative Values
 
+SELECT [prd_cost]
+from [SILVER].[crm_prd_info]
+where prd_cost < 0 OR prd_cost IS NULL
+
+
+-- Data standardization and Consistency
+
+SELECT DISTINCT prd_line
+from  [SILVER].[crm_prd_info]
+
+
+--Check for Invalid Date Orders
+
+SELECT * 
+from [SILVER].[crm_prd_info]
+WHERE  [prd_end_dt] < [prd_start_dt]
+
+SELECT * FROM [SILVER].[crm_prd_info]
+
+-- 
+
+select 
+NULLIF(sls_order_dt,0) sls_order_dt
+from [BRONZE].[crm_sales_details]
+where sls_order_dt <=0 or len(sls_order_dt) != 8
+
+select
+sls_sales,
+sls_quantity,
+sls_price
+  
+from [BRONZE].[crm_sales_details]
+WHERE sls_sales != sls_quantity * sls_price
+or sls_sales IS NULL OR sls_quantity IS NULL
+
+--Identify out of Range date
+
+select distinct 
+bdate 
+from [BRONZE].[erp_cust_az12]
+where bdate < '1924-01-01' OR bdate > GETDATE()
+
+--Data Stndaridization & Consistency
+
+SELECT DISTINCT gen
+from [BRONZE].[erp_cust_az12]
+
+-------------------------------------------------------
+
+SELECT DISTINCT cntry 
+from [BRONZE].[erp_loc_a101] 
+order by cntry
