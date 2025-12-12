@@ -1,0 +1,155 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="gJmgToQmMgvmfv5jfIQv">
+    <mxGraphModel dx="872" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9tb6E0sB-_REsunXsdif-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=dots;" vertex="1" parent="1">
+          <mxGeometry x="40" y="121" width="120" height="479" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-2" value="Sources" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="47.5" y="90" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=dots;" vertex="1" parent="1">
+          <mxGeometry x="209" y="120" width="410" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-4" value="Data Warehouse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="92" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=dots;" vertex="1" parent="1">
+          <mxGeometry x="671" y="120" width="120" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-6" value="Consume" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="678.5" y="89" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-7" value="Bronze Layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="219" y="136" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-8" value="Silver Layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="136" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-9" value="Gold Layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;fontSize=14;fontStyle=1;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="490" y="136" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-12" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="219" y="170" width="120" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-13" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="355" y="170" width="120" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-14" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="170" width="120" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-15" value="CRM" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.folders" vertex="1" parent="1">
+          <mxGeometry x="69" y="223" width="58.82" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Files.svg;" vertex="1" parent="1">
+          <mxGeometry x="110" y="243" width="27.43" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-17" value="ERP" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.folders" vertex="1" parent="1">
+          <mxGeometry x="69" y="320" width="58.82" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Files.svg;" vertex="1" parent="1">
+          <mxGeometry x="110" y="339" width="27.43" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-24" value="" style="endArrow=none;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="400" as="sourcePoint" />
+            <mxPoint x="160" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-25" value="Obj Type: CSV Files&lt;div&gt;Interface: files in folder&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="46" y="410" width="107" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-27" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_partition_4.svg;imageBackground=none;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="253" y="273" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-28" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_partition_4.svg;" vertex="1" parent="1">
+          <mxGeometry x="393" y="273" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-29" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_partition_4.svg;" vertex="1" parent="1">
+          <mxGeometry x="530" y="273" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.472;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.002;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="9tb6E0sB-_REsunXsdif-1" target="9tb6E0sB-_REsunXsdif-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="330" as="sourcePoint" />
+            <mxPoint x="210" y="280" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.472;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.002;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="345.5" as="sourcePoint" />
+            <mxPoint x="671" y="344.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="344.5" />
+              <mxPoint x="661" y="344.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.472;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.002;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="322" y="351" as="sourcePoint" />
+            <mxPoint x="373" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="342" y="350" />
+              <mxPoint x="363" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.472;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.002;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="461" y="347" as="sourcePoint" />
+            <mxPoint x="512" y="346" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="481" y="346" />
+              <mxPoint x="502" y="346" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-36" value="Row Data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="248" y="315" width="62" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-37" value="Clean, standarize data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="373" y="313" width="93" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-38" value="Business Ready Data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="503.5" y="310" width="93" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-39" value="Obj Type: Table&lt;div&gt;Load:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Batch processing&lt;/li&gt;&lt;li&gt;Full Load(Trunc &amp;amp; Insert)&lt;/li&gt;&lt;/ul&gt;No Transformation.&lt;/div&gt;&lt;div&gt;Data Model:Non(As-is)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=10;align=left;" vertex="1" parent="1">
+          <mxGeometry x="225.5" y="351" width="107" height="217" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-40" value="Obj Type: Tables&lt;div&gt;Load:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Batch processing&lt;/li&gt;&lt;li&gt;Full Load(Trunc &amp;amp; Insert)&lt;/li&gt;&lt;/ul&gt;Transformation:&lt;/div&gt;&lt;div&gt;- Data Cleaning&lt;/div&gt;&lt;div&gt;- Data Standarization&lt;/div&gt;&lt;div&gt;- Data Normalization&lt;/div&gt;&lt;div&gt;- Derived Columns&lt;/div&gt;&lt;div&gt;- Data Enrichment&lt;/div&gt;&lt;div&gt;Data Model: None&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=10;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360.5" y="350" width="107" height="217" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-41" value="Obj Type: Views&lt;div&gt;&amp;nbsp; No Load&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Transformation:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Data Integration&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Aggregations&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Business Logics&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Data Model:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Star Schema&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Flat FIle&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Aggregated Table&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=10;align=left;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="360" width="107" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-43" value="" style="endArrow=none;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="218" y="354" as="sourcePoint" />
+            <mxPoint x="338" y="354" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-44" value="" style="endArrow=none;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="354" y="354" as="sourcePoint" />
+            <mxPoint x="474" y="354" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-45" value="" style="endArrow=none;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="491" y="353.5" as="sourcePoint" />
+            <mxPoint x="611" y="353.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-46" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" vertex="1" parent="1">
+          <mxGeometry x="704" y="205" width="51" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="9tb6E0sB-_REsunXsdif-47" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.reported_state;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700.5" y="440" width="60" height="63" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
